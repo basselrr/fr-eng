@@ -1,0 +1,26 @@
+.langwrap {
+	display: flex;
+	justify-content: right;
+	padding: 10px 0;
+	gap: 10px;
+	
+	
+	
+}
+
+.langwrap a{
+	text-decoration: none;
+	color: black !important;
+	padding: 2px;
+	
+}
+
+a.active{
+	background-color: red;
+	color:white !important;
+	text-decoration: none;
+
+}
+a.hide{
+	display: none;
+}
